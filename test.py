@@ -1,1 +1,1 @@
-prin("Hello Jenkins server for poll scm test")
+print("Hello Jenkins server for poll scm test")
